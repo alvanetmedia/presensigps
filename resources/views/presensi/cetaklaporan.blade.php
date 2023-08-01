@@ -191,12 +191,12 @@
             </tr>
             <tr>
                 <td style="text-align: center; vertical-align:bottom" height="100px">
-                    <u>Qiana Aqila</u><br>
+                    <u>Firmansyah</u><br>
                     <i><b>HRD Manager</b></i>
                 </td>
                 <td style="text-align: center; vertical-align:bottom">
-                    <u>Daffa</u><br>
-                    <i><b>Direktur</b></i>
+                    <u>Tam Tamasya, SH</u><br>
+                    <i><b>Sekretaris</b></i>
                 </td>
             </tr>
         </table>
